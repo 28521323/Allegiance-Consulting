@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj": {}
+    "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj": {}
   },
   "projects": {
-    "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj": {
+    "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj",
+        "projectUniqueName": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj",
         "projectName": "BlazorSignalRApp.Client",
-        "projectPath": "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj",
+        "projectPath": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj",
         "packagesPath": "C:\\Users\\quint\\.nuget\\packages\\",
-        "outputPath": "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\",
+        "outputPath": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj": {
-                "projectPath": "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj"
+              "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj": {
+                "projectPath": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj": {
+    "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj",
+        "projectUniqueName": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj",
         "projectName": "BlazorSignalRApp.Shared",
-        "projectPath": "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj",
+        "projectPath": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj",
         "packagesPath": "C:\\Users\\quint\\.nuget\\packages\\",
-        "outputPath": "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\obj\\",
+        "outputPath": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

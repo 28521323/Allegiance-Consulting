@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MbG8BL449BVVtrUEhCC+qDN2uOP2pL7B4OgHkY8Ww4tg4vbpqdeSgf/a8d/LW+JCsxBjADx7pvRltZxKiNeC/Q==",
+  "dgSpecHash": "+EspxWhOXOfJV8wCxzsaauIowshqlfhEXprRO0yMFFu6tIVjOLirG5h//jOsfD6bDvPHXWLmJHVqOJfVl8FcSQ==",
   "success": true,
-  "projectFilePath": "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj",
+  "projectFilePath": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quint\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\quint\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",

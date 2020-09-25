@@ -1276,11 +1276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Server\\BlazorSignalRApp.Server.csproj",
+      "projectUniqueName": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Server\\BlazorSignalRApp.Server.csproj",
       "projectName": "BlazorSignalRApp.Server",
-      "projectPath": "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Server\\BlazorSignalRApp.Server.csproj",
+      "projectPath": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Server\\BlazorSignalRApp.Server.csproj",
       "packagesPath": "C:\\Users\\quint\\.nuget\\packages\\",
-      "outputPath": "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Server\\obj\\",
+      "outputPath": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -1300,11 +1300,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj": {
-              "projectPath": "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj"
+            "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj": {
+              "projectPath": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj"
             },
-            "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj": {
-              "projectPath": "d:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj"
+            "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj": {
+              "projectPath": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj"
             }
           }
         }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj",
+      "projectUniqueName": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj",
       "projectName": "BlazorSignalRApp.Shared",
-      "projectPath": "D:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj",
+      "projectPath": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\BlazorSignalRApp.Shared.csproj",
       "packagesPath": "C:\\Users\\quint\\.nuget\\packages\\",
-      "outputPath": "D:\\DATA\\IT\\Allegiance Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\obj\\",
+      "outputPath": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
