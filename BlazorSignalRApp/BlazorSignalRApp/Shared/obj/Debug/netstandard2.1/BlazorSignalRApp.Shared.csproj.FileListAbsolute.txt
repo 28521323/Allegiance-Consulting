@@ -7,3 +7,12 @@ D:\DATA\IT\Allegiance Consulting\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\De
 D:\DATA\IT\Allegiance Consulting\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.csproj.CoreCompileInputs.cache
 D:\DATA\IT\Allegiance Consulting\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.dll
 D:\DATA\IT\Allegiance Consulting\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.pdb
+d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Shared\bin\Debug\netstandard2.1\BlazorSignalRApp.Shared.deps.json
+d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Shared\bin\Debug\netstandard2.1\BlazorSignalRApp.Shared.dll
+d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Shared\bin\Debug\netstandard2.1\BlazorSignalRApp.Shared.pdb
+d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.csprojAssemblyReference.cache
+d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.AssemblyInfoInputs.cache
+d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.AssemblyInfo.cs
+d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.csproj.CoreCompileInputs.cache
+d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.dll
+d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.pdb

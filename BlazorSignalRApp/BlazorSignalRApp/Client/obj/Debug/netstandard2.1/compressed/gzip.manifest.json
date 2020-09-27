@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\zpRuiO62pesfaF9nHGCS7eYMdVPXLwz6qJMBq5yvs60=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\1uJAY49ndCbTWQBY1suwSuvNe-EkOJUZKuTzLrWGA-g=.hash",
       "Source": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorSignalRApp.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorSignalRApp.Client.dll.gz"
     },
@@ -306,7 +306,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\A-E5ES2DQkn5d5i7qZTDY2F4swh8gBFO5hp6gEZqVUM=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mODsFUzwrZazOHAkhNP0OApMR8wCufEBj2DfNIk6kk0=.hash",
       "Source": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorSignalRApp.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorSignalRApp.Client.pdb.gz"
     },
@@ -331,7 +331,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\pWt0Ig4DuAYvkQD6NASwwsi6aofadNwEFWMaNEeUo2I=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3gQ9KdM-P821bOG316dnaGizVfLYxZFkjqwscAeDfjs=.hash",
       "Source": "d:\\DATA\\IT\\Allegiance Consulting\\Allegiance-Consulting\\BlazorSignalRApp\\BlazorSignalRApp\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

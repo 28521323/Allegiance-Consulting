@@ -823,6 +823,6 @@ d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSi
 d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\BlazorSignalRApp.Client.pdb
 d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Register.razor.g.cs
 d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\Razor\Pages\Register.razor.g.cs
-d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\integrity\zpRuiO62pesfaF9nHGCS7eYMdVPXLwz6qJMBq5yvs60=.hash
-d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\integrity\A-E5ES2DQkn5d5i7qZTDY2F4swh8gBFO5hp6gEZqVUM=.hash
-d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\integrity\pWt0Ig4DuAYvkQD6NASwwsi6aofadNwEFWMaNEeUo2I=.hash
+d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\integrity\1uJAY49ndCbTWQBY1suwSuvNe-EkOJUZKuTzLrWGA-g=.hash
+d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\integrity\mODsFUzwrZazOHAkhNP0OApMR8wCufEBj2DfNIk6kk0=.hash
+d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\integrity\3gQ9KdM-P821bOG316dnaGizVfLYxZFkjqwscAeDfjs=.hash
