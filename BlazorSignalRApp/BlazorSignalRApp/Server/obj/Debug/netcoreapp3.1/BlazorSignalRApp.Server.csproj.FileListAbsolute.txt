@@ -448,3 +448,5 @@ d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSi
 d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Server\obj\Debug\netcoreapp3.1\BlazorSignalRApp.Server.dll
 d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Server\obj\Debug\netcoreapp3.1\BlazorSignalRApp.Server.pdb
 d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Server\obj\Debug\netcoreapp3.1\BlazorSignalRApp.Server.genruntimeconfig.cache
+d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Server\obj\Debug\netcoreapp3.1\BlazorSignalRApp.Server.Properties.Resources.resources
+d:\DATA\IT\Allegiance Consulting\Allegiance-Consulting\BlazorSignalRApp\BlazorSignalRApp\Server\obj\Debug\netcoreapp3.1\BlazorSignalRApp.Server.csproj.GenerateResource.cache

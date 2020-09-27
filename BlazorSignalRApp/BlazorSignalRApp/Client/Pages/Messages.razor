@@ -1,27 +1,38 @@
-﻿@page "/Messages/{userInput}"
+﻿@page "/chat/{userInput}"
 @using Pages
 @using Microsoft.AspNetCore.SignalR.Client
 @inject NavigationManager UriHelper
 @inject NavigationManager NavigationManager
 @implements IDisposable
-<h2>Second Page</h2>
-<p>You are @userInput years old.</p>
-
-<div class="form-group">
-    <label>
-        Message:
-        <input @bind="messageInput" size="50" />
-    </label>
-</div>
-<button @onclick="Send" disabled="@(!IsConnected)">Send</button>
-<hr>
 
 <ul id="messagesList">
     @foreach (var message in messages)
     {
-        <li>@message</li>
+        if (nameReceive == NameInput)
+        {
+            <li><div style="text-align: left"> @message</div></li>
+        }
+        if (nameReceive != NameInput)
+        {
+            <li><div style="text-align: center"> @message @DateTime.Now</div></li>
+        }
+
+
     }
 </ul>
+
+<div class="fixed-bottom form-group" style="text-align: center">
+    <label>
+        Message:
+        <input @bind="messageInput" size="50" />
+                         
+        <button @onclick="Send" disabled="@(!IsConnected)">Send</button>
+    </label>
+</div>
+
+<hr>
+
+
 
 @code {
     [Parameter]
@@ -33,6 +44,7 @@
     private string NameInput;
     private string SNameInput;
     private string messageInput;
+    private string nameReceive;
 
 
     protected override async Task OnInitializedAsync()
@@ -44,10 +56,11 @@
         hubConnection.On<string, string>("ReceiveMessage", (user, message) =>
         {
             messageInput = "";
+            nameReceive = user;
             var encodedMsg = $"{user}: {message}";
-            messages.Add(encodedMsg);
+            messages.Add(encodedMsg+ "                      ");
             StateHasChanged();
-            
+
         });
 
         await hubConnection.StartAsync();
